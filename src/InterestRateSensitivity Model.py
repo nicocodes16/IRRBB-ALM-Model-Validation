@@ -61,7 +61,7 @@ if __name__ == "__main__":
     print(f"Successfully generated {NUM_PATHS} interest rate paths over {T_YEARS} years.")
 
 
-    # NOTE: Script pauses here. Close the chart window to continue
+    # Script pauses here - CLOSE CHART WINDOW TO CONTINUE
     plt.figure(figsize=(10, 6))
     plt.plot(t_grid, rates_sim[:, :50], alpha=0.3, color='blue', linewidth=1)
     plt.axhline(B, color='red', linestyle='--', linewidth=2, label='Long-term Mean (3%)')
@@ -100,8 +100,7 @@ if __name__ == "__main__":
     print(f"Best Case NII (Rates drop):   ${best_case_nii:,.2f}")
     print(f"99% Worst Case NII (Spike):   ${worst_case_nii_99:,.2f}")
 
-
-    # NOTE: Script pauses here again. Close chart to finish EVE.
+    # Script pauses here - CLOSE CHART WINDOW TO FINISH EVE CALCULATION
     plt.figure(figsize=(8, 5))
     plt.hist(nii_paths, bins=50, color='skyblue', edgecolor='black')
     plt.axvline(expected_nii, color='blue', linestyle='dashed', linewidth=2, label='Expected NII')
