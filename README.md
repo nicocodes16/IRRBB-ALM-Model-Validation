@@ -8,7 +8,7 @@ An independent quantitative validation of a bank's Asset-Liability Management (A
 
 
 
-> \*\*🔗 \[Read the full Model Validation Document (PDF)](docs/ALM\_Interest\_Rate\_Validation\_Report.pdf)\*\*
+> \*\*🔗 \[Read the full Model Validation Document (PDF)](docs/IRRBB-MVD.pdf)\*\*
 
 
 
@@ -63,14 +63,4 @@ The formal validation audit identified several critical model limitations that r
 \*   \*\*Boundary Conditions:\*\* The Vasicek simulation allows for negative interest rates. While theoretically sound under recent European monetary policy, it requires hard-coded zero-floors for standard US retail banking validations.
 
 
-
-\## ⚙️ Installation \& Usage
-
-
-
-1\. Clone the repository:
-
-&#x20;  ```bash
-
-&#x20;  git clone \[https://github.com/YourUsername/IRRBB-ALM-Model-Validation.git](https://github.com/YourUsername/IRRBB-ALM-Model-Validation.git)
 
