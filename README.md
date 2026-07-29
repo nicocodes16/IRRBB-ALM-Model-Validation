@@ -72,4 +72,4 @@ The formal validation audit identified several critical model limitations that r
 
 &#x20;  ```bash
 
-&#x20;  git clone \[https://github.com/nicocodes16/IRRBB-ALM-Model-Validation.git](https://github.com/nicocodes16/IRRBB-ALM-Model-Validation.git)
+&#x20;  git clone \[https://github.com/NAndLucero/IRRBB-ALM-Model-Validation.git](https://github.com/NAndLucero/IRRBB-ALM-Model-Validation.git)
