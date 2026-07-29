@@ -64,12 +64,3 @@ The formal validation audit identified several critical model limitations that r
 
 
 
-\## ⚙️ Installation \& Usage
-
-
-
-1\. Clone the repository:
-
-&#x20;  ```bash
-
-&#x20;  git clone \[https://github.com/NAndLucero/IRRBB-ALM-Model-Validation.git](https://github.com/NAndLucero/IRRBB-ALM-Model-Validation.git)
