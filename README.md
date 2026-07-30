@@ -8,7 +8,7 @@ An independent quantitative validation of a bank's Asset-Liability Management (A
 
 
 
-\*\*🔗 [Read the full Model Validation Document (PDF)](docs/IRRBB-MVD.pdf)\*\*
+🔗\*\* [Read the full Model Validation Document (PDF)](docs/IRRBB-MVD.pdf)\*\*
 
 
 
